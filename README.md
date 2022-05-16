@@ -1,6 +1,6 @@
 # Gerador de QRcode
 
-Projeto básico para iniciantes feito para treinar o consumo de uma API, utilizando conceitos básicos da Stack Front-End.
+Projeto básico para iniciantes feito para treinar o consumo de uma API, utilizando conceitos básicos da Stack Front-End reduzindo qualquer link a um QRcode.
 
 ## ⚡ Tecnologias
 
