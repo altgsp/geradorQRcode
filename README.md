@@ -20,3 +20,4 @@ Para iniciá-lo, siga os passos abaixo:
 index.html
 ```
 no seu navegador.
+![geradorQRcode](https://user-images.githubusercontent.com/84372959/168887588-9e0d3913-ceb5-404f-a2ce-1470f3ef86c0.JPG)
